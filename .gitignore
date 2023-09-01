@@ -2,6 +2,8 @@
 !jest.config.js
 *.d.ts
 node_modules
+*.drawio
+Multi Cloud IaC.2-Page-1.jpg
 
 # CDK asset staging directory
 .cdk.staging
